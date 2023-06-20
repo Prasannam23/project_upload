@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About me</title>
+    <style>
+        h1.Heading1{font-family :Arial, Helvetica, sans-serif;
+            font-size: 300%;
+            text-align: center;
+            color: rgb(207, 231, 247);
+            background-color: rgb(6, 112, 131);
+            border-radius: 15px;
+            
+        }
+        .body2{
+
+/* background-color: aqua; */
+font-size: 100%;
+            text-align: left;
+            color: rgb(207, 231, 247);
+            background-color: rgb(10, 67, 141);;
+            /* border-radius: 15px; */
+            
+}
+.body3{
+    /* background-color: aqua; */
+font-size: 100%;
+            text-align: left;
+            color: rgb(207, 231, 247);
+            background-color: rgb(10, 67, 141);
+            /* border-radius: 15px; */
+
+}
+.body4{
+      /* background-color: aqua; */
+font-size: 100%;
+            text-align: left;
+            color: rgb(207, 231, 247);
+            background-color: rgb(10, 67, 141);
+            /* border-radius: 15px; */
+
+
+}
+.body5{
+    background-color: aquamarine;
+}
+    </style>
+</head>
+<body class="body5">
+
+    <h1 class="Heading1"> <i> <b> <strong>PRASANNAM TIWARI</strong> </b> </i> </h1> 
+    <hr>
+
+
+
+
+    <div class="body3">
+    <h2 class="body3"> Skills</h2>
+    <p class="body3"> 1. Photography
+        <br class="body3"> 2. Video Editing
+
+        <br class="body3"> 3. Sketching
+    </p>
+   </div>
+
+
+
+
+
+    <div class="body2">
+    <h2 class="body1"> Language Learnt</h2>
+    <p class="body1"> C </p>
+    <p class="body1"> Python </p>
+    
+    <p class="body1"> javascript </p>
+    <p class="body1"> C ++ </p>
+    </div>
+    
+    <hr>
+    <div class="body4">
+    <h2> Hobbies </h2>
+    <p> Reading, Video Editing,reading journals and news articles </p>
+</div>
+</body>
+</html>
